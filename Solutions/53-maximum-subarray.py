@@ -19,8 +19,6 @@ Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.
 '''
 
 from typing import List
-
-
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         currentSum = 0
@@ -38,4 +36,4 @@ class Solution:
 
 # Result
 s = Solution()
-print(s.containsDuplicate([-2, 1, -3, 4, -1, 2, 1, -5, 4]))  # 6
+print(s.maxSubArray([-2, 1, -3, 4, -1, 2, 1, -5, 4]))  # 6
