@@ -12,4 +12,4 @@ The repository contains the best versions of my solutions to [LeetCode](https://
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Solutions/217-contains-duplicate.py)|O(n)|O(n)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Python](./Solutions/53-maximum-subarray.py)|O(n)|O(1)|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Solutions/1-two-sum.py)|O(n^2)|O(1)|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Solutions/88-merge-sorted-array.py)|O(n)|O(n)|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Solutions/88-merge-sorted-array.py)|O(n + k)|O(n + k)|
