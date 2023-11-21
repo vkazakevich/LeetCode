@@ -6,9 +6,8 @@
 
     0 <= i < j < nums.length
     nums[i] + rev(nums[j]) == nums[j] + rev(nums[i])
-    Return the number of nice pairs of indices. Since that number can be too large, return it modulo 109 + 7.
-
     
+    Return the number of nice pairs of indices. Since that number can be too large, return it modulo 109 + 7.
 
     Example 1:
     Input: nums = [42,11,1,97]
