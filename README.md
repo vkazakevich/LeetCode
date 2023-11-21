@@ -6,6 +6,8 @@ The repository contains the best versions of my solutions to [LeetCode](https://
 
 ## Solutions TypeScript
 
+| # | Title | Solution | Time | Space |
+|---| ----- | -------- | ---- | ----- |
 |1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/contains-duplicate/)|[TypeScript](./Solutions/TypeScript/1814-count-nice-pairs-in-an-array.ts)|O(n)|O(n)|
 
 ## Solutions Python
