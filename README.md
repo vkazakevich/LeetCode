@@ -2,10 +2,13 @@
 
 # Python solution for LeetCode
 
-The repository contains the best versions of my solutions to [LeetCode](https://leetcode.com/) problems using Python3.
+The repository contains the best versions of my solutions to [LeetCode](https://leetcode.com/) problems using Python3 and TypeScript.
 
+## Solutions TypeScript
 
-## Solutions
+|1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/contains-duplicate/)|[TypeScript](./Solutions/TypeScript/1814-count-nice-pairs-in-an-array.ts)|O(n)|O(n)|
+
+## Solutions Python
 
 | # | Title | Solution | Time | Space |
 |---| ----- | -------- | ---- | ----- |
