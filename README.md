@@ -9,6 +9,7 @@ The repository contains the best versions of my solutions to [LeetCode](https://
 | # | Title | Solution | Time | Space |
 |---| ----- | -------- | ---- | ----- |
 |1814|[Count Nice Pairs in an Array](https://leetcode.com/problems/contains-duplicate/)|[TypeScript](./Solutions/TypeScript/1814-count-nice-pairs-in-an-array.ts)|O(n)|O(n)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[TypeScript](./Solutions/TypeScript/2-add-two-numbers.ts)|O(n)|O(n)|
 
 ## Solutions Python
 
